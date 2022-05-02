@@ -44,12 +44,12 @@ preloader = "images/favicon.png" # use jpg, png, svg or gif format.
 # Navigation button
 [navigation_button]
 enable = true
-label = "Sign Up Now"
-link = "signup/"
+label = "Make an appointment"
+link = "contact/"
 
 # seo meta data for OpenGraph / Twitter Card
 [metadata]
-keywords = ["Hugo", "Themefisher", "GetHugoThemes"]
+keywords = ["Bairaktaris Andreas", "Cardiothoracic Surgeon", "GetHugoThemes"]
 description = "Software and SAAS Landing Hugo Theme"
 author = "Themefisher"
 image = "images/og-image.jpg" # this image will be used as fallback if a page has no image of its own
@@ -72,8 +72,8 @@ domain = "" # yourdomain.com
 
 # counter analytics: see https://counter.dev/setup.html
 [counter]
-enable = false
-username = "" # your username
+enable = true
+username = "meesvandongen" # your username
 
 # site verifications
 [site_verification]
@@ -95,7 +95,7 @@ enable = true
 title = "The health of the patient at the center."
 content = "Specialized cardiac surgery services, combined with the most modern equipment and high quality care facilities"
 button = "Make an appointment"
-button_link = "/"
+button_link = "contact/"
 
 ############################# social site ########################
 [[social]]

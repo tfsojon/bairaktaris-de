@@ -38,6 +38,8 @@ created endoscopically or using minimally interventional techniques, so as to
 achieve the minimization of infections and healing disorders and also a good
 esthetic result.
 
+{{< image src="images/case-studies/heart-2.jpg" caption="" alt="alter-text" height="" width="" position="" command="fill" option="q100" class="img-fluid rounded" title="image title" webp="false" >}}
+
 ### ΟPCAB (Off-Pump Coronary Artery Bypass)
 
 It concerns a surgical technique during which the use of cardiopulmonary bypass
@@ -70,3 +72,5 @@ catheterization procedures. They are performed in close cooperation with the
 Department of Cardiology. The patients with indications for hybrid interventions
 are presented in the scientific council, where the procedure that will be
 followed is discussed.
+
+{{< image src="images/case-studies/heart-3.jpg" caption="" alt="alter-text" height="" width="" position="" command="fill" option="q100" class="img-fluid rounded" title="image title" webp="false" >}}
