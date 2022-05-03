@@ -2,10 +2,7 @@
 date: "2021-07-14"
 draft: false
 title: "Surgery of the coronary vessel"
-logo: "images/services/01.svg"
-year: "2011"
-location: "Bizli, Canada"
-company_size: "100+ Members"
+logo: "images/services/off-pump.jpg"
 ---
 
 The surgery of the coronary vessels has been established internationally during the last decades as a method of treating coronary artery disease, along with other therapeutical strategies such as angioplasty (balloon) or/and stent implantation. Today, it corresponds to 60 – 70% of the full range of cardiac surgery. Except for the conventional aortocoronary (using venous grafts) bypasses, it includes a series of other modern innovative therapeutic selections. The range of our clinics includes all the sectors of modern coronary vessel surgery.

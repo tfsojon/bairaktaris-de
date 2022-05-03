@@ -3,9 +3,6 @@ date: "2017-04-02"
 draft: false
 title: "Artificial heart"
 logo: "images/services/body-heart-f.jpg"
-year: "2011"
-location: "Bizli, Canada"
-company_size: "100+ Members"
 ---
 
 **Basically, mechanical support systems can be used (artificial heart), only if
