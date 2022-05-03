@@ -1,7 +1,7 @@
 ---
 date: "2018-01-26"
 title: "Ελλάς, η γραφειοκρατία σου: Μετά από 10.000 εγχειρήσεις ήθελαν αποδείξεις πως είναι καρδιοχειρουργός"
-image: "images/blog/giatros-onaseio--732x488.jpg"
+image: "images/articles/giatros-onaseio--732x488.jpg"
 author: "Παναγιώτα Καρλατήρα"
 draft: false
 ---

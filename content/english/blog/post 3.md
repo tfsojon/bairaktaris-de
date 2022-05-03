@@ -1,7 +1,7 @@
 ---
 date: "2017-04-28"
 title: "Ήρθα να δουλέψω, όχι να κάνω πελάτες"
-image: "images/blog/giatros-onaseio--732x488.jpg"
+image: "images/articles/giatros-onaseio--732x488.jpg"
 author: "ΧΡΗΣΤΟΥ ΜΙΧΑΗΛΙΔΗ"
 draft: false
 ---
