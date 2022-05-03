@@ -54,51 +54,9 @@ hasChildren = true
 
   [[main]]
   parent = "Pages"
-  name = "Career"
-  url = "career/"
-  weight = 1
-
-  [[main]]
-  parent = "Pages"
-  name = "Pricing"
-  url = "pricing/"
-  weight = 2
-
-  [[main]]
-  parent = "Pages"
-  name = "Blog Details"
-  url = "blog/post-1/"
-  weight = 3
-
-  [[main]]
-  parent = "Pages"
-  name = "Author Single"
-  url = "author/abdullah-al-shifat/"
-  weight = 4
-
-  [[main]]
-  parent = "Pages"
-  name = "Job Details"
-  url = "career/job-post-1/"
-  weight = 5
-
-  [[main]]
-  parent = "Pages"
-  name = "Terms & Conditions"
-  url = "terms-and-conditions/"
-  weight = 8
-
-  [[main]]
-  parent = "Pages"
   name = "Changelog"
   url = "changelog/"
   weight = 9
-
-  [[main]]
-  parent = "Pages"
-  name = "Sign In"
-  url = "signin/"
-  weight = 10
 
   [[main]]
   parent = "Pages"
