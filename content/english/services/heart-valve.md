@@ -5,10 +5,6 @@ title: "Heart Valve Surgery"
 logo: "images/services/mechanical-heart-valve-newf.jpg"
 ---
 
-**Τhe Cardiovascular Surgery Clinics of Mediterraneo Hospital offers the full
-range of surgical treatment for cardiac valve diseases. In this sector, during
-the last years, a lot of new surgical methods were developed.**
-
 ### Range of treatment – Heart valve surgery in adults
 
 - Replacement of mitral and aortic valve with biological and mechanical valves.
