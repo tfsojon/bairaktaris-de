@@ -24,7 +24,7 @@ brands_carousel:
 
 # features
 features:
-  enable: true
+  enable: false
   subtitle: "Services"
   title: "Mediterraneo Hospital"
   description: 'Personalized services, with attention to detail and quality, offered in a place that wins with its stylistic point of view. The "boutique" aesthetic as a concept, refers to the “luxury” of exclusive care, in a unique environment, which for the people of Mediterraneo, translates to "life attitude".'
@@ -42,23 +42,35 @@ features:
       title: "Interventional Units"
       content: "The current trend in Medicine dictates that all acts be carried out in the least invasive manner, because this translates to less pain for the patient, less trauma, fewer complications and shorter hospitalization."
 
+
+# our_mission
+our_mission:
+  enable: true
+  subtitle: ""
+  title: "10,000 open-heart interventions"
+  description: "Multi-year experience with 10,000 open-heart interventions, over 110 heart transplants and corresponding implants of mechanical heart support systems, being for many years Deputy Director of Clinic for Thoracic and Cardiovascular Medicine, Heart and Diabetes Center North-Rhine Westphalia, Bad Oeynhausen - Germany."
+
+  image: "images/about/bairaktaris.png"
+
 # intro_video
 intro_video:
-  enable: true
+  enable: false
   subtitle: "Short Intro Video"
   title: "Built exclusively for you"
   description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
   video_url: "https://www.youtube.com/embed/dyZcRRWiuuw"
   video_thumbnail: "images/video-popup.jpg"
 
+
+
 # how_it_works
 how_it_works:
-  enable: true
+  enable: false
   section: "how-it-works" # content comming from how-it-works page
 
 # testimonials
 testimonials:
-  enable: true
+  enable: false
   subtitle: "Our Testimonial"
   title: "Don't take our word for it"
   description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."

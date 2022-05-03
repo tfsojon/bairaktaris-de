@@ -8,7 +8,7 @@ who_we_are:
   enable: true
   subtitle: "Cardiothoracic Surgeon"
   title: "Dr. med. Andreas Bairaktaris"
-  description: "Dr. med. Andreas Bairaktaris Cardiothoracic Surgeon of Bochum University Medical School, is Director of the A’ Cardiac Surgery Clinic at Mediterraneo Hospital."
+  description: "Multi-year experience with 10,000 open-heart interventions, over 110 heart transplants and corresponding implants of mechanical heart support systems, being for many years Deputy Director of Clinic for Thoracic and Cardiovascular Medicine, Heart and Diabetes Center North-Rhine Westphalia, Bad Oeynhausen - Germany."
 
   image: "images/about/bairaktaris.png"
 
