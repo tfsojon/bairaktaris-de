@@ -1,6 +1,6 @@
 ######################## default configuration ####################
-baseURL = "https://demo.gethugothemes.com/andromeda/examplesite/"
-title = "Andromeda - Software and SAAS Landing Hugo Theme"
+baseURL = "https://bairaktaris.de/"
+title = "Dr. med. Bairaktaris Andreas - Cardiothoracic Surgeon"
 theme = "andromeda-hugo"
 # post pagination
 paginate = "6" # see https://gohugo.io/extras/pagination/

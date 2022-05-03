@@ -16,6 +16,37 @@ name = "Blog"
 url = "blog/"
 weight = 7
 
+
+[[main]]
+name = "Services"
+url = "services/"
+weight = 10
+hasChildren = true
+
+  [[main]]
+  parent = "Services"
+  name = "Coronary Vessel Surgery"
+  url = "services/surgery-coronary-vessel"
+  weight = 1
+
+  [[main]]
+  parent = "Services"
+  name = "Heart Valve Surgery"
+  url = "services/heart-valve"
+  weight = 2
+
+  [[main]]
+  parent = "Services"
+  name = "Thoracic aortic surgery"
+  url = "services/thoracic-aortic-surgery"
+  weight = 3
+
+  [[main]]
+  parent = "Services"
+  name = "Artificial heart"
+  url = "services/artificial-heart"
+  weight = 4
+
 [[main]]
 weight = 9
 name = "Pages"
@@ -53,18 +84,6 @@ hasChildren = true
 
   [[main]]
   parent = "Pages"
-  name = "Case Studies"
-  url = "case-studies/"
-  weight = 6
-
-  [[main]]
-  parent = "Pages"
-  name = "Case Studies Details"
-  url = "case-studies/case-1/"
-  weight = 7
-
-  [[main]]
-  parent = "Pages"
   name = "Terms & Conditions"
   url = "terms-and-conditions/"
   weight = 8
@@ -98,18 +117,3 @@ weight = 15
 name = "About"
 url = "about/"
 weight = 1
-
-[[footer]]
-name = "How It Works"
-url = "how-it-works/"
-weight = 2
-
-[[footer]]
-name = "Terms & Conditions"
-url = "terms-and-conditions/"
-weight = 3
-
-[[footer]]
-name = "Changelog"
-url = "changelog/"
-weight = 4

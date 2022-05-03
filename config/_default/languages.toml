@@ -5,14 +5,3 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 # copyright
-
-
-
-################################### French language #####################################
-[fr]
-languageName = "Fr"
-languageCode = "fr-fr"
-contentDir = "content/french"
-weight = 2
-# copyright
-copyright = "Conçu Par [Themefisher](https://themefisher.com/) & Développé Par [Gethugothemes](https://gethugothemes.com/)"
