@@ -2,7 +2,7 @@
 date: "2021-07-14"
 draft: false
 title: "Surgery of the coronary vessel"
-logo: "images/services/01.svg"
+logo: "images/services/off-pump.jpg"
 year: "2011"
 location: "Bizli, Canada"
 company_size: "100+ Members"

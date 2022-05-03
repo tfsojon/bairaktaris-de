@@ -2,7 +2,7 @@
 date: "2017-04-03"
 draft: false
 title: "Heart Valve Surgery"
-logo: "images/services/01.svg"
+logo: "images/services/mechanical-heart-valve-newf.jpg"
 year: "2011"
 location: "Bizli, Canada"
 company_size: "100+ Members"

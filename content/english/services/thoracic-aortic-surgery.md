@@ -2,7 +2,7 @@
 date: "2017-04-02"
 draft: false
 title: "Thoracic aortic surgery"
-logo: "images/services/01.svg"
+logo: "images/services/heart-5.jpg"
 year: "2011"
 location: "Bizli, Canada"
 company_size: "100+ Members"
