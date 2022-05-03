@@ -1,6 +1,6 @@
 ---
 title: "Services"
-description: "meta description"
+description: "A list of services Dr. Med. Bairaktaris offers."
 draft: false
 
 # our_values
