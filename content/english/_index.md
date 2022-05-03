@@ -48,7 +48,7 @@ our_mission:
   enable: true
   subtitle: ""
   title: "10,000 open-heart interventions"
-  description: "Multi-year experience with 10.595 open-heart interventions, over 100 heart transplants, and corresponding implants of mechanical heart support systems being for many years Deputy Director of Clinic for Thoracic and Cardiovascular Medicine, Heart and Diabetes Center North-Rhine Westphalia, Bad Oeynhausen - Germany."
+  description: "Multi-year experience with 10,000 open-heart interventions, over 110 heart transplants, and corresponding mechanical heart support systems implants. Deputy Director of Clinic for Thoracic and Cardiovascular Medicine for many years, Heart and Diabetes Center North-Rhine Westphalia, Bad Oeynhausen - Germany."
 
   image: "images/about/bairaktaris.png"
 

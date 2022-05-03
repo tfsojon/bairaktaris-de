@@ -8,7 +8,7 @@ who_we_are:
   enable: true
   subtitle: "Cardiothoracic Surgeon"
   title: "Dr. med. Andreas Bairaktaris"
-  description: "Multi-year experience with 10,000 open-heart interventions, over 110 heart transplants and corresponding implants of mechanical heart support systems, being for many years Deputy Director of Clinic for Thoracic and Cardiovascular Medicine, Heart and Diabetes Center North-Rhine Westphalia, Bad Oeynhausen - Germany."
+  description: "Multi-year experience with 10,000 open-heart interventions, over 110 heart transplants, and corresponding mechanical heart support systems implants. Deputy Director of Clinic for Thoracic and Cardiovascular Medicine for many years, Heart and Diabetes Center North-Rhine Westphalia, Bad Oeynhausen - Germany."
 
   image: "images/about/bairaktaris.png"
 
@@ -47,14 +47,24 @@ clinical_experience:
       content: "Heart and Diabetes Center NRW, University of Bochum, Cardiothoracic Surgery Residency"
     - title: "1992 – 1994"
       content: "Bergmannsheil Hospital Bochum, Cardiothoracic Surgery Deputy Director"
-    - title: "1994 – 6/2005"
+    - title: "1994 – 06/2005"
       content: "Cardiothoracic Surgery Staff"
-    - title: "7/2005 – 2010"
+    - title: "07/2005 – 2010"
       content: "Heart and Diabetes Center NRW Bad Oeynhausen, University of Bochum, Deputy Director Cardiothoracic Surgery"
     - title: "2010 – 2015"
       content: "Onassis Cardiac Surgery Center, Director Cardiothoracic Surgery-Transplantation Services."
-    - title: "2016"
+    - title: "2016 – 01/2021"
       content: "Mediterraneo, Director Cardiac Surgery"
+    - title: "02/2021 – Present"
+      content: "Henry Dunant Hospital Center"
+
+# Awards
+awards:
+  enable: true
+  title: "Awards"
+  block: 
+    - title: "1982 – 1988"
+      content: "Augusta-Krankenanstalten Bochum, General Surgery Residency"
 
 # brands
 brands_carousel:
