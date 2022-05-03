@@ -1,5 +1,5 @@
 ---
-label: blog-post
+label: article
 hide_body: false
 fields:
 - type: datetime

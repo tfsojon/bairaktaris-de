@@ -132,7 +132,7 @@ alert(s);
 <hr>
 
 ### Image
-{{< image src="images/blog/02.jpg" caption="" alt="alter-text" height="" width="" position="" command="fill" option="q100" class="img-fluid rounded" title="image title" webp="false" >}}
+{{< image src="images/articles/02.jpg" caption="" alt="alter-text" height="" width="" position="" command="fill" option="q100" class="img-fluid rounded" title="image title" webp="false" >}}
 <hr>
 
 ### Gallery

@@ -29,29 +29,18 @@ sections:
     templates:
       - new-author
   - type: heading
-    label: Blog
+    label: Articles
   - type: document
-    path: exampleSite/content/english/blog/_index.md
-    label: Blog (en)
+    path: exampleSite/content/english/articles/_index.md
+    label: Articles (en)
   - type: directory
-    path: exampleSite/content/english/blog
-    label: Blog Posts (en)
+    path: exampleSite/content/english/articles
+    label: Articles (en)
     create: documents
     match: "**/*"
     exclude: _index.md
     templates:
-      - blog-post
-  - type: document
-    path: exampleSite/content/french/blog/_index.md
-    label: Blog (fr)
-  - type: directory
-    path: exampleSite/content/french/blog
-    label: Blog Posts (fr)
-    create: documents
-    match: "**/*"
-    exclude: _index.md
-    templates:
-      - blog-post
+      - article
   - type: heading
     label: Services
   - type: document
@@ -60,17 +49,6 @@ sections:
   - type: directory
     path: exampleSite/content/english/services
     label: Services (en)
-    create: all
-    match: "**/*"
-    exclude: _index.md
-    templates:
-      - services-page
-  - type: document
-    path: exampleSite/content/french/services/_index.md
-    label: Case Info (fr)
-  - type: directory
-    path: exampleSite/content/french/services
-    label: Services (fr)
     create: all
     match: "**/*"
     exclude: _index.md

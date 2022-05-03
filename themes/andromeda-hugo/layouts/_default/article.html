@@ -6,7 +6,7 @@
     {{$img:= $img.Resize "570x "}}
     {{$imgWebp:= $img.Resize "570x webp"}}
     <img loading="lazy" decoding="async" class="card-img-top h-auto" width="{{$img.Width}}" height="{{$img.Height}}"
-      src="{{$imgWebp.RelPermalink}}" alt="blog-post" onerror="this.onerror=null;this.src='{{$img.RelPermalink}}'">
+      src="{{$imgWebp.RelPermalink}}" alt="article" onerror="this.onerror=null;this.src='{{$img.RelPermalink}}'">
     {{else}}
     <img class="img-fluid" src="https://via.placeholder.com/570x380.png/eee/eee" alt="image-fallback">
     {{end}}
