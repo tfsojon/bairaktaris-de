@@ -21,8 +21,8 @@
 go.work
 
 
-# /public/
-# /resources/_gen/
+/public/
+/resources/_gen/
 
 # General
 .DS_Store
