@@ -1,8 +1,4 @@
 ---
-title: "About"
-layout: "about"
-draft: false
-
 # who_we_are
 who_we_are:
   enable: true
