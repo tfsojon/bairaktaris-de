@@ -158,7 +158,14 @@ header {
     }
   }
 
+  .navbar-nav {
+    margin: 0 auto;
+  }
+
   @media (min-width:991px) {
+    .navbar-nav {
+      margin-right: 0;
+    }
     .dropdown-menu {
       display: block;
       visibility: hidden;
