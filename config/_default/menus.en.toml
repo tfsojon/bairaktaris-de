@@ -21,7 +21,6 @@ name = "Publications"
 url = "publications/"
 weight = 8
 
-
 [[main]]
 name = "Services"
 url = "services/"
