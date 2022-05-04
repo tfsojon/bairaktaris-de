@@ -69,8 +69,8 @@ awards:
   enable: true
   title: "Awards"
   block: 
-    - title: "1982 – 1988"
-      content: "Augusta-Krankenanstalten Bochum, General Surgery Residency"
+    - title: "01/07/2019"
+      content: "..."
 
 # brands
 brands_carousel:
