@@ -40,12 +40,6 @@ quality = 100
 enable = true
 preloader = "images/favicon.png" # use jpg, png, svg or gif format.
 
-# Navigation button
-[navigation_button]
-enable = true
-label = "Make an appointment"
-link = "contact/"
-
 # seo meta data for OpenGraph / Twitter Card
 [metadata]
 keywords = ["Bairaktaris Andreas", "Cardiothoracic Surgeon"]
