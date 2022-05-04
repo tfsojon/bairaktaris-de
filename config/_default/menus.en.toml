@@ -16,6 +16,10 @@ name = "Articles"
 url = "articles/"
 weight = 7
 
+[[main]]
+name = "Scientific activity"
+url = "scientific_activities/"
+weight = 8
 
 [[main]]
 name = "Services"
