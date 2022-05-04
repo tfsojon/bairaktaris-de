@@ -11,7 +11,7 @@ who_we_are:
   description_header: "born: 18 February 1954, Nemea, Greece"
   description: "Multi-year experience with 10,000 open-heart interventions, over 110 heart transplants, and corresponding mechanical heart support systems implants. Deputy Director of Clinic for Thoracic and Cardiovascular Medicine for many years, Heart and Diabetes Center North-Rhine Westphalia, Bad Oeynhausen - Germany."
 
-  image: "images/about/bairaktaris.png"
+  image: "images/about/bairaktaris.webp"
 
 # how_it_works
 how_it_works:   
@@ -20,12 +20,12 @@ how_it_works:
   - subtitle: "Primary Speciality"
     title: "You Will Not miss Your All misunderstandings"
     description: "Protect your design vision and leave nothing up to interpretation with interaction recipes. Quickly share and access all your team members interactions by using libraries, ensuring consistency throughout the."
-    image: "images/about/proti-grammi.jpg"
+    image: "images/about/proti-grammi.webp"
 
   - subtitle: "Secondary Speciality"
     title: "Say hello to no-code The Advance Creation"
     description: "From the simplest of interactions to those that use Excel-gradeing formulas, ProtoPie can handle them all. Make mind-blowing of New interactions everyday without ever having to write any new code."
-    image: "images/about/proti-grammi.jpg"
+    image: "images/about/proti-grammi.webp"
 
 # place_of_birth
 place_of_birth:
