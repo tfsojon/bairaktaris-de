@@ -7,24 +7,19 @@ url = ""
 weight = 1
 
 [[main]]
-name = "About"
-url = "about/"
-weight = 4
-
-[[main]]
 name = "Articles"
 url = "articles/"
-weight = 7
+weight = 2
 
 [[main]]
 name = "Publications"
 url = "publications/"
-weight = 8
+weight = 3
 
 [[main]]
 name = "Services"
 url = "services/"
-weight = 10
+weight = 4
 hasChildren = true
 
   [[main]]
@@ -50,23 +45,6 @@ hasChildren = true
   name = "Artificial heart"
   url = "services/artificial-heart"
   weight = 4
-
-[[main]]
-weight = 9
-name = "Pages"
-hasChildren = true
-
-  [[main]]
-  parent = "Pages"
-  name = "Changelog"
-  url = "changelog/"
-  weight = 9
-
-  [[main]]
-  parent = "Pages"
-  name = "Elements"
-  url = "elements/"
-  weight = 11
   
 [[main]]
 name = "Wikipedia"
