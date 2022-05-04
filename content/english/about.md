@@ -12,6 +12,12 @@ who_we_are:
 
   image: "images/about/bairaktaris.png"
 
+# place_of_birth
+place_of_birth:
+  enable: true
+  title: "18/02/1954"
+  description: "Nemea, Greece."
+
 # education
 education:
   enable: true
