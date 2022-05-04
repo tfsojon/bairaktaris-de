@@ -27,6 +27,8 @@ education:
       content: "Medical studies, Ruhr-University of Bochum και University of Essen"
     - title: "27/04/1982"
       content: "Medical Degree, (University of Bochum)"
+    - title: "22/09/1994"
+      content: "Dissertation, PhD father Prof. Dr. med. R. Körfer (University of Bochum)"
 
 # Specialty
 specialty:
