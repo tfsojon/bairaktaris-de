@@ -1,8 +1,4 @@
 ---
-title: "About"
-layout: "about"
-draft: false
-
 # who_we_are
 who_we_are:
   enable: true
@@ -11,7 +7,7 @@ who_we_are:
   description_header: "born: 18 February 1954, Nemea, Greece"
   description: "Multi-year experience with 10,000 open-heart interventions, over 110 heart transplants, and corresponding mechanical heart support systems implants. Deputy Director of Clinic for Thoracic and Cardiovascular Medicine for many years, Heart and Diabetes Center North-Rhine Westphalia, Bad Oeynhausen - Germany."
 
-  image: "images/about/bairaktaris.webp"
+  image: "images/bairaktaris.webp"
 
 # how_it_works
 how_it_works:   
@@ -20,12 +16,12 @@ how_it_works:
   - subtitle: "Primary Speciality"
     title: "You Will Not miss Your All misunderstandings"
     description: "Protect your design vision and leave nothing up to interpretation with interaction recipes. Quickly share and access all your team members interactions by using libraries, ensuring consistency throughout the."
-    image: "images/andreas_bairaktaris.png"
+    image: "images/henry-dunant.webp"
 
-  - subtitle: "Hospital"
-    title: "Henry Dunant Hospital Center"
-    description: "The Henry Dunant Hospital Center is not only one of the most modern Hospitals in Greece but also in the whole of south-Europe. It consists of 462 hospital beds, 38 intensive care beds, and 25 modern operating theaters."
-    image: "images/about/proti-grammi.webp"
+  - subtitle: "Secondary Speciality"
+    title: "Say hello to no-code The Advance Creation"
+    description: "From the simplest of interactions to those that use Excel-gradeing formulas, ProtoPie can handle them all. Make mind-blowing of New interactions everyday without ever having to write any new code."
+    image: "images/henry-dunant.webp"
 
 # place_of_birth
 place_of_birth:
