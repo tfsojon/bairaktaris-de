@@ -83,7 +83,7 @@ awards:
   title: "Awards"
   block: 
     - title: "01/07/2019"
-      content: "..."
+      content: "Holy Cross of the Apostle and Evangelist Mark"
 
 # brands
 brands_carousel:
