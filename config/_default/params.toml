@@ -13,12 +13,6 @@ image_gallery = true
 # footer information
 footer_info = "Lorem ipsum dolor sit sed dmi amet, consectetur adipiscing. Cdo tellus, sed condimentum volutpat."
 
-# contact form action
-contact_form_action = "" # contact form works with https://formspree.io
-
-# career form action
-career_form_action = "#" # career form works with https://formspree.io
-
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
 custom_script= "" 
 
