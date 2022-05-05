@@ -1,6 +1,6 @@
 ---
 title: "Articles"
-description: "meta description"
+description: "Articles about Dr. Med. Bairaktaris"
 draft: false
 ---
 

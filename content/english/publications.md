@@ -1,6 +1,6 @@
 ---
 title: "Publications"
-description: "Some of our Team members"
+description: "Publications from Dr. Med. Bairaktaris"
 draft: false
 layout: "elements"
 ---

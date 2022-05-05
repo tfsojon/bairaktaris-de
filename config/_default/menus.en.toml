@@ -49,5 +49,5 @@ hasChildren = true
 [[main]]
 name = "Wikipedia"
 url = "https://www.wikipedia.org/"
-weight = 15
+weight = 5
 
