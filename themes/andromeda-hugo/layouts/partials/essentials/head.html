@@ -50,23 +50,8 @@
 <!-- opengraph and twitter card -->
 {{ partial "datasets/og-twitter.html" . }}
 
-<!-- google analytics -->
-{{ template "_internal/google_analytics.html" . }}
-
 <!-- google tag manager -->
 {{ partialCached "datasets/gtm.html" . }}
 
-<!-- matomo analytics -->
-{{ partialCached "datasets/matomo.html" . }}
-
-<!--  Baidu analytics -->
-{{ partialCached "datasets/baidu.html" . }}
-
-<!-- Plausible Analytics -->
-{{ partialCached "datasets/plausible.html" . }}
-
 <!-- Counter Analytics -->
 {{ partialCached "datasets/counter.html" . }}
-
-<!-- Crisp Chat -->
-{{ partialCached "datasets/crisp-chat.html" . }}
