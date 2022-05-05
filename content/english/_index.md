@@ -18,10 +18,10 @@ how_it_works:
     description: "Protect your design vision and leave nothing up to interpretation with interaction recipes. Quickly share and access all your team members interactions by using libraries, ensuring consistency throughout the."
     image: "images/henry-dunant.webp"
 
-  - subtitle: "Secondary Speciality"
-    title: "Say hello to no-code The Advance Creation"
-    description: "From the simplest of interactions to those that use Excel-gradeing formulas, ProtoPie can handle them all. Make mind-blowing of New interactions everyday without ever having to write any new code."
-    image: "images/henry-dunant.webp"
+  - subtitle: "Hospital"
+    title: "Henry Dunant Hospital Center"
+    description: "The Henry Dunant Hospital Center is not only one of the most modern Hospitals in Greece but also in the whole of south-Europe. It consists of 462 hospital beds, 38 intensive care beds, and 25 modern operating theaters."
+    image: "images/about/proti-grammi.webp"
 
 # place_of_birth
 place_of_birth:
