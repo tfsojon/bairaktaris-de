@@ -16,12 +16,12 @@ how_it_works:
   - subtitle: "Primary Speciality"
     title: "You Will Not miss Your All misunderstandings"
     description: "Protect your design vision and leave nothing up to interpretation with interaction recipes. Quickly share and access all your team members interactions by using libraries, ensuring consistency throughout the."
-    image: "images/henry-dunant.webp"
+    image: "images/andreas_bairaktaris.png"
 
   - subtitle: "Hospital"
     title: "Henry Dunant Hospital Center"
     description: "The Henry Dunant Hospital Center is not only one of the most modern Hospitals in Greece but also in the whole of south-Europe. It consists of 462 hospital beds, 38 intensive care beds, and 25 modern operating theaters."
-    image: "images/about/proti-grammi.webp"
+    image: "images/henry-dunant.webp"
 
 # place_of_birth
 place_of_birth:
