@@ -14,8 +14,8 @@ how_it_works:
   enable: true
   block:
   - subtitle: "Primary Speciality"
-    title: "You Will Not miss Your All misunderstandings"
-    description: "Protect your design vision and leave nothing up to interpretation with interaction recipes. Quickly share and access all your team members interactions by using libraries, ensuring consistency throughout the."
+    title: "Lorem ipsum dolor sit amet, consectetur adipiscing."
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies pellentesque tellus eget bibendum. Praesent fermentum est gravida ornare auctor. Nunc feugiat nisi purus, a lacinia magna vestibulum a. Nullam vel pellentesque mi. Curabitur et."
     image: "images/andreas_bairaktaris.png"
 
   - subtitle: "Hospital"
