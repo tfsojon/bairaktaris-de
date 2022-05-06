@@ -39,7 +39,7 @@ preloader = "images/favicon.png" # use jpg, png, svg or gif format.
 keywords = ["Bairaktaris Andreas", "Cardiothoracic Surgeon"]
 description = "The health of the patient at the center"
 author = "Andreas Bairaktaris"
-image = "images/og-image.jpg" # this image will be used as fallback if a page has no image of its own
+image = "images/andreas_bairaktaris.jpg" # this image will be used as fallback if a page has no image of its own
 
 # counter analytics: see https://counter.dev/setup.html
 [counter]
