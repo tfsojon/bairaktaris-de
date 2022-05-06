@@ -16,7 +16,7 @@ how_it_works:
   - subtitle: "Primary Speciality"
     title: "Lorem ipsum dolor sit amet, consectetur adipiscing."
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies pellentesque tellus eget bibendum. Praesent fermentum est gravida ornare auctor. Nunc feugiat nisi purus, a lacinia magna vestibulum a. Nullam vel pellentesque mi. Curabitur et."
-    image: "images/andreas_bairaktaris.png"
+    image: "images/andreas_bairaktaris.jpg"
 
   - subtitle: "Hospital"
     title: "Henry Dunant Hospital Center"
