@@ -37,7 +37,7 @@ education:
     - title: "29/06/1972"
       content: "Apolytirion, Nemea Greece"
     - title: "1973 – 1974"
-      content: "Preparatory College"
+      content: "Preparatory College, Bochum"
     - title: "1975 – 1982"
       content: "Medical studies, Ruhr-University of Bochum and University of Essen"
     - title: "27/04/1982"
