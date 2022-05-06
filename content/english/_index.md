@@ -34,12 +34,16 @@ education:
   enable: true
   title: "Education"
   block:
+    - title: "29/06/1972"
+      content: "Apolytirion, Nemea Greece"
+    - title: "1973 – 1974"
+      content: "Preparatory College"
     - title: "1975 – 1982"
-      content: "Medical studies, Ruhr-University of Bochum και University of Essen"
+      content: "Medical studies, Ruhr-University of Bochum and University of Essen"
     - title: "27/04/1982"
-      content: "Medical Degree, (University of Bochum)"
+      content: "Medical Degree, Ruhr-University of Bochum"
     - title: "22/09/1994"
-      content: "Dissertation, PhD father Prof. Dr. med. R. Körfer (University of Bochum)"
+      content: "Dissertation, PhD father Prof. Dr. med. R. Körfer, Ruhr-University of Bochum"
 
 # Specialty
 specialty:
@@ -47,11 +51,11 @@ specialty:
   title: "Specialty"
   block:
     - title: "1982 – 1989"
-      content: "Surgical Specialty, Clinic AugustaKrankenanstalten Bochum (Director Prof. Dr. med. John) and Martin-Luther-Krankenhaus Bochum-Wattenscheid (Director Dr. med. Volk)"
+      content: "Surgical Specialty, Clinic AugustaKrankenanstalten Bochum, Director Prof. Dr. med. John and Martin-Luther-Krankenhaus Bochum-Wattenscheid, Director Dr. med. Volk"
     - title: "15/04/1989"
-      content: "Surgery Licence to practice profession (Ärztekammer Westfallen-Lippe)"
+      content: "Surgery Licence to practice profession, Ärztekammer Westfallen-Lippe"
     - title: "01/1990-04/1992"
-      content: "Clinic for Thoracic and Cardiovascular Medicine, Heart and Diabetes Center North-Rhine Westphalia, Bad Oeynhausen (Director Prof. Dr. med. Reiner Körfer)"
+      content: "Clinic for Thoracic and Cardiovascular Medicine, Heart and Diabetes Center North-Rhine Westphalia, Bad Oeynhausen, Director Prof. Dr. med. Reiner Körfer"
 
 # Clinical Experience
 clinical_experience:
