@@ -42,8 +42,14 @@ education:
       content: "Medical studies, Ruhr-University of Bochum and University of Essen"
     - title: "27/04/1982"
       content: "Medical Degree, Ruhr-University of Bochum"
+    - title: "13/05/1982"
+      content: "License to practice medicine, Düsseldorf"
+    - title: "15/04/1989"
+      content: "Doctor for surgery, Münster (Westphalia)"
     - title: "22/09/1994"
       content: "Dissertation, PhD father Prof. Dr. med. R. Körfer, Ruhr-University of Bochum"
+    - title: "19/08/2006"
+      content: "Specialist for cardiac surgery, Münster (Westphalia)"
 
 # Specialty
 specialty:
@@ -51,7 +57,7 @@ specialty:
   title: "Specialty"
   block:
     - title: "1982 – 1989"
-      content: "Surgical Specialty, Clinic AugustaKrankenanstalten Bochum, Director Prof. Dr. med. John and Martin-Luther-Krankenhaus Bochum-Wattenscheid, Director Dr. med. Volk"
+      content: "Surgical Specialty, Clinic Augusta Krankenanstalten Bochum, Director Prof. Dr. med. John and Martin-Luther-Krankenhaus Bochum-Wattenscheid, Director Dr. med. Volk"
     - title: "15/04/1989"
       content: "Surgery Licence to practice profession, Ärztekammer Westfallen-Lippe"
     - title: "01/1990-04/1992"
