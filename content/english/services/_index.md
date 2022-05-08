@@ -3,7 +3,7 @@ title: "Services"
 description: "A list of services Dr. Med. Bairaktaris offers."
 draft: false
 
-# our_values
+# Services
 services:
   enable: true
   title: "Services"
