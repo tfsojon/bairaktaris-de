@@ -1,7 +1,7 @@
 ---
 date: "2016-04-27"
 title: "Ο διάσημος έλληνας καρδιοχειρουργός Ανδρέας Μπαϊρακτάρης"
-image: "images/articles/giatros-onaseio--732x488.jpg"
+image: "images/articles/e-volta.jpg"
 author: "Φωτεινή Ανδρουλάκη"
 draft: false
 ---
