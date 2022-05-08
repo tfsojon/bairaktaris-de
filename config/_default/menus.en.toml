@@ -51,3 +51,8 @@ name = "Wikipedia"
 url = "https://www.wikipedia.org/"
 weight = 5
 
+# footer menu
+[[footer]]
+name = "Henry Dunant Hospital"
+url = "https://www.dunant.gr/en/"
+weight = 1
