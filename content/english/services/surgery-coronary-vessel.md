@@ -17,7 +17,7 @@ The surgery of the coronary vessels has been established internationally during 
 
 This procedure is realized with general anesthesia, and it is one of the standard procedures in our clinic for coronary bypass surgery. After opening the sternum, cardiac arrest is provoked by administering a special cardioplegic solution, while the heart-lung bypass machine maintains the circulation and the patient’s supply with oxygen. After the placement of the grafts, the better-perfused heart retrieves its function again. The left internal thoracic artery is used as a graft, and the patient’s veins are from the inner side of the thigh and the calf. In our clinic, the vein grafts are created endoscopically or using minimally interventional techniques to minimize infections and healing disorders and an excellent esthetic result.
 
-{{< image src="images/services/heart-2.jpg" caption="" alt="alter-text" height="" width="" position="" command="fill" option="q100" class="img-fluid rounded" title="image title" webp="false" >}}
+{{< image src="images/services/heart-2.jpg" caption="" alt="" height="" width="" position="" command="fill" option="q100" class="img-fluid rounded" title="" webp="true" >}}
 
 ### ΟPCAB (Off-Pump Coronary Artery Bypass)
 
@@ -35,4 +35,4 @@ In this technique, exclusively arterial grafts are used. In contrast with the ve
 
 The hybrid procedures consist of combinative surgical bypass and cardiac catheterization procedures. They are performed in close cooperation with the Department of Cardiology. The patients with indications for hybrid interventions are presented in the scientific council, where the procedure that will be followed is discussed.
 
-{{< image src="images/services/heart-3.jpg" caption="" alt="alter-text" height="" width="" position="" command="fill" option="q100" class="img-fluid rounded" title="image title" webp="false" >}}
+{{< image src="images/services/heart-3.jpg" caption="" alt="" height="" width="" position="" command="fill" option="q100" class="img-fluid rounded" title="" webp="true" >}}

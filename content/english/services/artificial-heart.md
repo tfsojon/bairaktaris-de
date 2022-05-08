@@ -49,7 +49,7 @@ In case of functional limitation of both the ventricles, an extracorporeal
 support system is used. Through two pumping chambers, which function with air,
 the pumping function of the ventricles is replaced and supported.
 
-{{< image src="images/services/body.jpg" caption="" alt="body" height="" width="" position="" command="fill" option="q100" class="img-fluid rounded" title="" webp="false" >}}
+{{< image src="images/services/body.jpg" caption="" alt="" height="" width="" position="" command="fill" option="q100" class="img-fluid rounded" title="" webp="true" >}}
 
 In case that the function of the left ventricle is significantly limited, then a
 very smaller pumping system can be implanted. This does not concern a pumping
@@ -57,8 +57,7 @@ chamber but an axial-flow pump. The blood transportation is realized through an
 “Arichemedes Snail (Archimedes’ Screwpump)”. These devices are very small and
 they can be fully implanted. Here, Heartware system is available.Heartware.
 
-{{< image src="images/services/heart-8.png" caption="" alt="body" height="" width="" position="" command="fill" option="q100" class="img-fluid rounded" title="" webp="false" >}}
-
+{{< image src="images/services/heart-8.png" caption="" alt="" height="" width="" position="" command="fill" option="q100" class="img-fluid rounded" title="" webp="true" >}}
 
 With this support system, the mobilization of the patient is for sure easier and
 his discharge from the clinic is more possible.
@@ -79,4 +78,4 @@ However, their application is limited only to selective patients. Because of the
 lack of alternative solutions for these patients, the use of this method will
 continue in the future to gain importance.
 
-{{< image src="images/services/body-heart.jpg" caption="" alt="body" height="" width="" position="" command="fill" option="q100" class="img-fluid rounded" title="" webp="false" >}}
+{{< image src="images/services/body-heart.jpg" caption="" alt="" height="" width="" position="" command="fill" option="q100" class="img-fluid rounded" title="" webp="true" >}}

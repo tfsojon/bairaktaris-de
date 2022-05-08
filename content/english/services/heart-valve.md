@@ -28,7 +28,7 @@ offer the ideal flow profile and they are characterized by their endurance, for
 lifetime. As disadvantage, it should be taken in consideration the lifetime
 intake of anticoagulants, for avoiding clot formation.
 
-{{< image src="images/services/mechanical-heart-valve.jpg" caption="Image 1: Mechanical cardiac valve" alt="Mechanical cardiac valve" height="" width="" position="" command="fill" option="q100" class="img-fluid rounded" title="Mechanical cardiac valve" webp="false" >}}
+{{< image src="images/services/mechanical-heart-valve.jpg" caption="Image 1: Mechanical cardiac valve" alt="Mechanical cardiac valve" height="" width="" position="" command="fill" option="q100" class="img-fluid rounded" title="Mechanical cardiac valve" webp="true" >}}
 
 ### Biological cardiac valve prosthesis
 
@@ -38,7 +38,7 @@ be replaced because of degeneration. An advantage of these valves is the low
 percentage of clot formation. For this reason, the treatment with Sintrom is
 necessary only for 2 months after the intervention.
 
-{{< image src="images/services/biological-prosthetic-heart-valve.jpg" caption="Image 2: Biological cardiac valve" alt="Biological cardiac valve" height="" width="" position="" command="fill" option="q100" class="img-fluid rounded" title="Biological cardiac valve" webp="false" >}}
+{{< image src="images/services/biological-prosthetic-heart-valve.jpg" caption="Image 2: Biological cardiac valve" alt="Biological cardiac valve" height="" width="" position="" command="fill" option="q100" class="img-fluid rounded" title="Biological cardiac valve" webp="true" >}}
 
 ### Cardiac valve reconstructions
 
@@ -54,8 +54,7 @@ the replacement of the valve. However, the endurance of the “new” aortic val
 is bigger in comparison with the endurance of the conventional biological
 prosthesis.
 
-{{< image src="images/services/ross.jpg" caption="Image 3: The result of Ross Procedure. The new aortic valve is composed of the patient’s former pulmonary valve and the pulmonary valve of the donor has been implanted in the site of the pulmonary (yellow color)." alt="Ross Procedure" height="" width="" position="" command="fill" option="q100" class="img-fluid rounded" title="Ross Procedure" webp="false" >}}
-
+{{< image src="images/services/ross.jpg" caption="Image 3: The result of Ross Procedure. The new aortic valve is composed of the patient’s former pulmonary valve and the pulmonary valve of the donor has been implanted in the site of the pulmonary (yellow color)." alt="Ross Procedure" height="" width="" position="" command="fill" option="q100" class="img-fluid rounded" title="Ross Procedure" webp="true" >}}
 
 #### David procedure - Reconstruction of aortic valve
 
@@ -70,8 +69,7 @@ connected, which has replaced the thoracic aorta, are used for the replacement
 of the ascending aorta, of the aortic arch and the descending aorta. In this
 way, additional surgical procedures can be avoided in many patients.
 
-{{< image src="images/services/mitral-valve-reconstruction-david.jpg" caption="" alt="David procedure" height="" width="" position="" command="fill" option="q100" class="img-fluid rounded" title="David procedure" webp="false" >}}
-
+{{< image src="images/services/mitral-valve-reconstruction-david.jpg" caption="" alt="David procedure" height="" width="" position="" command="fill" option="q100" class="img-fluid rounded" title="David procedure" webp="true" >}}
 
 #### Reconstruction of mitral valve
 
@@ -83,9 +81,7 @@ maintenance of the geometry of the left ventricle, the best functional results
 and also with the small tendency of the reconstructed valve to form clots, a
 fact that makes needless the long-term medication with anticoagulants.
 
-
 {{< gallery dir="images/services/mitral-valve-reconstruction" class="" height="400" width="400" webp="true" command="Fit" options="" zoomable="true" >}}
-
 
 #### Tricuspid valve
 
@@ -106,4 +102,4 @@ pressure of the pulmonary artery. For the reconstruction of the tricuspid valve,
 we use special rings (Edwards MC3), which are sutured on the natural ring
 (annulus) of the above mentioned valve.
 
-{{< image src="images/services/tricuspid-valve.jpg" caption="" alt="David procedure" height="" width="" position="" command="fill" option="q100" class="img-fluid rounded" title="David procedure" webp="false" >}}
+{{< image src="images/services/tricuspid-valve.jpg" caption="" alt="David procedure" height="" width="" position="" command="fill" option="q100" class="img-fluid rounded" title="David procedure" webp="true" >}}

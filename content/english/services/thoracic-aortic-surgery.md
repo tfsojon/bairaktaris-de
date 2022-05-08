@@ -16,7 +16,7 @@ logo: "images/services/heart-5.jpg"
 - Supracoronal replacement of the ascending and descending aorta and the aortic
   arch with hybrid implant.
 
-{{< image src="images/services/heart-8.png" caption="" alt="alter-text" height="" width="" position="" command="fill" option="q100" class="img-fluid rounded" title="image title" webp="false" >}}
+{{< image src="images/services/heart-8.png" caption="" alt="" height="" width="" position="" command="fill" option="q100" class="img-fluid rounded" title="" webp="true" >}}
 
 Surgery of aortic root is an important therapeutic sector of our clinic. Apart
 from the accomplishment of all the standard replacement techniques concerning
@@ -28,7 +28,7 @@ syndrome, while it is used more and more often in patients with acute dissection
 of thoracic aorta. The above-mentioned techniques are particularly recommended
 to young female patients who wish to get pregnant.
 
-{{< image src="images/services/heart-7.jpg" caption="" alt="alter-text" height="" width="" position="" command="fill" option="q100" class="img-fluid rounded" title="image title" webp="false" >}}
+{{< image src="images/services/heart-7.jpg" caption="" alt="" height="" width="" position="" command="fill" option="q100" class="img-fluid rounded" title="" webp="true" >}}
 
 The development of new surgical techniques improves the surgical results, aiming
 to the improvement of the patient’s post-operative life quality. New implants
@@ -46,4 +46,4 @@ the upper extremities are re-implanted. During the procedure, which should be
 performed using a heart-lung bypass machine, blood and oxygen is supplied to the
 brain with separate catheters.
 
-{{< image src="images/services/heart-6.jpg" caption="" alt="alter-text" height="" width="" position="" command="fill" option="q100" class="img-fluid rounded" title="image title" webp="false" >}}
+{{< image src="images/services/heart-6.jpg" caption="" alt="" height="" width="" position="" command="fill" option="q100" class="img-fluid rounded" title="" webp="true" >}}
