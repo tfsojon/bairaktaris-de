@@ -41,11 +41,6 @@ description = "The health of the patient at the center"
 author = "Andreas Bairaktaris"
 image = "images/andreas_bairaktaris.jpg" # this image will be used as fallback if a page has no image of its own
 
-# counter analytics: see https://counter.dev/setup.html
-[counter]
-enable = true
-username = "meesvandongen" # your username
-
 # site verifications
 [site_verification]
 google = "" # Your verification code
