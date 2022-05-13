@@ -12,10 +12,9 @@ url = "publications/"
 weight = 2
 
 [[main]]
-name = "Awards"
-url = "awards/"
+name = "Articles"
+url = "articles/"
 weight = 3
-
 
 [[main]]
 name = "Services"
