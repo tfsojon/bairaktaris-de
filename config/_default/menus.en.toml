@@ -18,14 +18,9 @@ weight = 3
 
 
 [[main]]
-name = "Articles"
-url = "articles/"
-weight = 4
-
-[[main]]
 name = "Services"
 url = "services/"
-weight = 5
+weight = 4
 hasChildren = true
 
   [[main]]
@@ -55,7 +50,7 @@ hasChildren = true
 [[main]]
 name = "Wikipedia"
 url = "https://www.wikipedia.org/"
-weight = 6
+weight = 5
 
 # footer menu
 [[footer]]
