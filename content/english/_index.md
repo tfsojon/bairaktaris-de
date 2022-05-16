@@ -13,6 +13,7 @@ who_we_are:
 how_it_works:   
   enable: true
   block:
+  - subtitle: "Primary Speciality"
     title: "Herz- und Diabeteszentrum NRW"
     description: "Transformed the Herz- und Diabeteszentrum NRW to the most succesfull Transplantation Centers in Germany as deputy of Prof. Dr. R. Körfer. He successfully performed 104 Hearttransplantations during this time."
     image: "images/andreas_bairaktaris.jpg"
