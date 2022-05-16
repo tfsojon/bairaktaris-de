@@ -13,12 +13,11 @@ who_we_are:
 how_it_works:   
   enable: true
   block:
-  - subtitle: "Primary Speciality"
-    title: "Lorem ipsum dolor sit amet, consectetur adipiscing."
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies pellentesque tellus eget bibendum. Praesent fermentum est gravida ornare auctor. Nunc feugiat nisi purus, a lacinia magna vestibulum a. Nullam vel pellentesque mi. Curabitur et."
+    title: "Herz- und Diabeteszentrum NRW"
+    description: "Transformed the Herz- und Diabeteszentrum NRW to the most succesfull Transplantation Centers in Germany as deputy of Prof. Dr. R. Körfer. He successfully performed 104 Hearttransplantations during this time."
     image: "images/andreas_bairaktaris.jpg"
 
-  - subtitle: "Hospital"
+    subtitel: Hospital
     title: "Henry Dunant Hospital Center"
     description: "The Henry Dunant Hospital Center is not only one of the most modern Hospitals in Greece but also in the whole of south-Europe. It consists of 462 hospital beds, 38 intensive care beds, and 25 modern operating theaters."
     image: "images/henry-dunant.jpg"
@@ -82,6 +81,8 @@ clinical_experience:
       content: "Onassis Cardiac Surgery Center, Director Cardiothoracic Surgery-Transplantation Services."
     - title: "2016 – 01/2021"
       content: "Mediterraneo, Director Cardiac Surgery"
+    - title: "04/2016"
+      content: "Requested by Prof. Yanto Sandy Tjang to work at..."
     - title: "02/2021 – Present"
       content: "Henry Dunant Hospital Center"
 
@@ -93,10 +94,10 @@ awards:
     - title: "01/07/2019"
       content: "Holy Cross of the Apostle and Evangelist Mark"
 
-# brands
-brands_carousel:
-  enable: false
-  subtitle: "Our Clients"
-  title: "Trusted by Thousands Companies"
-  section: "/" # brand images comming form _index.md
----
+# Accomplishments
+accomplishments:
+  enable: true
+  title: "Accomplishments"
+  block: 
+    - title: "03/04/2016"
+      content: "Transfer of a 17-year-old boy with severe heart failure by using transportable ECMO from Onassis Heart Center Athens to the University Hospital of Hannover. The boy underwent heart transplantation at a later date."
