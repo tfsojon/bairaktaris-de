@@ -17,7 +17,7 @@ how_it_works:
     description: "Transformed the Herz- und Diabeteszentrum NRW to the most succesfull Transplantation Centers in Germany as deputy of Prof. Dr. R. Körfer. He successfully performed 104 Hearttransplantations during this time."
     image: "images/andreas_bairaktaris.jpg"
 
-    subtitel: Hospital
+  - subtitle: "Hospital"
     title: "Henry Dunant Hospital Center"
     description: "The Henry Dunant Hospital Center is not only one of the most modern Hospitals in Greece but also in the whole of south-Europe. It consists of 462 hospital beds, 38 intensive care beds, and 25 modern operating theaters."
     image: "images/henry-dunant.jpg"
