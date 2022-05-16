@@ -82,7 +82,7 @@ clinical_experience:
       content: "Onassis Cardiac Surgery Center, Director Cardiothoracic Surgery-Transplantation Services."
     - title: "2016 – 01/2021"
       content: "Mediterraneo, Director Cardiac Surgery"
-    - title: "04/2016"
+    - title: "04/2020"
       content: "Requested by Prof. Yanto Sandy Tjang to work at..."
     - title: "02/2021 – Present"
       content: "Henry Dunant Hospital Center"
