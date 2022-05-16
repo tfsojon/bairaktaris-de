@@ -15,7 +15,7 @@ how_it_works:
   block:
   - subtitle: "Primary Speciality"
     title: "Herz- und Diabeteszentrum NRW"
-    description: "Transformed the Herz- und Diabeteszentrum NRW to the most succesful Transplantation Center in Germany as deputy of Prof. Dr. R. Körfer. He successfully performed 104 Hearttransplantations during this time."
+    description: "Transformed the Herz- und Diabeteszentrum NRW to the most successful Transplantation Center in Germany as deputy of Prof. Dr. R. Körfer. He successfully performed 104 Hearttransplantations during this time."
     image: "images/andreas_bairaktaris.jpg"
 
   - subtitle: "Hospital"
