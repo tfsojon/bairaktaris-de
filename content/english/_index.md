@@ -16,7 +16,7 @@ how_it_works:
   - subtitle: "Early Accomplishments"
     title: "Herz- und Diabeteszentrum NRW"
     description: "Transformed the Herz- und Diabeteszentrum NRW to the most successful Transplantation Center in Germany as deputy of Prof. Dr. R. Körfer. He successfully performed 104 Hearttransplantations during this time."
-    image: "images/andreas_bairaktaris.jpg"
+    image: "images/andreas_bairaktaris.webp"
 
   - subtitle: "Hospital"
     title: "Henry Dunant Hospital Center"
