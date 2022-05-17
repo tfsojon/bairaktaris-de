@@ -8,6 +8,8 @@
 {{ end }}
 {{ end }}
 
+<script data-cfasync="false" src="plugins/webfont-loader/webfont-loader-2.min.js"></script>
+
 <!-- gallery script -->
 {{ if site.Params.image_gallery }}
 {{ $scripts = $scripts | append (resources.Get "plugins/gallery/glightbox.js" | minify ) }}
