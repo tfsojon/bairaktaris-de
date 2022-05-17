@@ -3,7 +3,6 @@
 {{ range site.Params.plugins.js}}
 {{ if findRE "^http" .link }}
 <script src="{{ .link | relURL }}" type="application/javascript" {{.attributes | safeHTMLAttr}}></script>
-<script data-cfasync="false" src="plugins/webfont-loader/webfont-loader-2.min.js"></script>
 {{ else }}
 {{ $scripts = $scripts | append (resources.Get .link) }}
 {{ end }}
