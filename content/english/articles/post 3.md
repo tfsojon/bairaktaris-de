@@ -1,7 +1,7 @@
 ---
 date: "2017-04-28"
 title: "Ήρθα να δουλέψω, όχι να κάνω πελάτες"
-image: "images/articles/mpairaktaris-3.jpg"
+image: "images/articles/mpairaktaris-3.webp"
 author: "ΧΡΗΣΤΟΥ ΜΙΧΑΗΛΙΔΗ"
 draft: false
 ---

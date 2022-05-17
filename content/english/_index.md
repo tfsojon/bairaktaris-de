@@ -7,20 +7,21 @@ who_we_are:
   description_header: "born: 18 February 1954, Nemea, Greece"
   description: "Multi-year experience with 10,000 open-heart interventions, over 110 heart transplants, and corresponding mechanical heart support systems implants. Deputy Director of Clinic for Thoracic and Cardiovascular Medicine for many years, Heart and Diabetes Center North-Rhine Westphalia, Bad Oeynhausen - Germany."
 
-  image: "images/bairaktaris.png"
+  image: "images/bairaktaris.webp"
 
 # how_it_works
 how_it_works:   
   enable: true
   block:
+  - subtitle: "Early Accomplishments"
     title: "Herz- und Diabeteszentrum NRW"
-    description: "Transformed the Herz- und Diabeteszentrum NRW to the most succesfull Transplantation Centers in Germany as deputy of Prof. Dr. R. Körfer. He successfully performed 104 Hearttransplantations during this time."
-    image: "images/andreas_bairaktaris.jpg"
+    description: "Transformed the Herz- und Diabeteszentrum NRW to the most successful Transplantation Center in Germany as deputy of Prof. Dr. R. Körfer. He successfully performed 104 Hearttransplantations during this time."
+    image: "images/andreas_bairaktaris.webp"
 
-    subtitel: Hospital
+  - subtitle: "Hospital"
     title: "Henry Dunant Hospital Center"
     description: "The Henry Dunant Hospital Center is not only one of the most modern Hospitals in Greece but also in the whole of south-Europe. It consists of 462 hospital beds, 38 intensive care beds, and 25 modern operating theaters."
-    image: "images/henry-dunant.jpg"
+    image: "images/henry-dunant.webp"
 
 # place_of_birth
 place_of_birth:
@@ -47,7 +48,7 @@ education:
 # Specialty
 specialty:
   enable: true
-  title: "Specialty"
+  title: "Degrees"
   block:
     - title: "13/05/1982"
       content: "License to practice medicine, Düsseldorf"
@@ -70,19 +71,19 @@ clinical_experience:
     - title: "1988 – 1989"
       content: "Martin-Luther-Krankenhaus Bochum-Wattenscheid, General Surgery Residency"
     - title: "1990 – 1992"
-      content: "Heart and Diabetes Center NRW, University of Bochum, Cardiothoracic Surgery Residency"
+      content: "Herz- und Diabeteszentrum NRW, University of Bochum, Cardiothoracic Surgery Residency"
     - title: "1992 – 1994"
       content: "Bergmannsheil Hospital Bochum, Cardiothoracic Surgery Deputy Director"
     - title: "1994 – 06/2005"
-      content: "Cardiothoracic Surgery Staff"
+      content: "Herz- und Diabeteszentrum NRW, Cardiothoracic Surgery Staff"
     - title: "07/2005 – 2010"
-      content: "Heart and Diabetes Center NRW Bad Oeynhausen, University of Bochum, Deputy Director Cardiothoracic Surgery"
+      content: "Herz- und Diabeteszentrum NRW Bad Oeynhausen, University of Bochum, Deputy Director Cardiothoracic Surgery"
     - title: "2010 – 2015"
       content: "Onassis Cardiac Surgery Center, Director Cardiothoracic Surgery-Transplantation Services."
     - title: "2016 – 01/2021"
       content: "Mediterraneo, Director Cardiac Surgery"
-    - title: "04/2016"
-      content: "Requested by Prof. Yanto Sandy Tjang to work at..."
+    - title: "04/2020"
+      content: "Requested by Prof. Yanto Sandy Tjang to work at the University of Indonesia"
     - title: "02/2021 – Present"
       content: "Henry Dunant Hospital Center"
 
@@ -101,3 +102,4 @@ accomplishments:
   block: 
     - title: "03/04/2016"
       content: "Transfer of a 17-year-old boy with severe heart failure by using transportable ECMO from Onassis Heart Center Athens to the University Hospital of Hannover. The boy underwent heart transplantation at a later date."
+---
