@@ -83,7 +83,7 @@ clinical_experience:
     - title: "2016 – 01/2021"
       content: "Mediterraneo, Director Cardiac Surgery"
     - title: "04/2020"
-      content: "Requested by Prof. Yanto Sandy Tjang to work at..."
+      content: "Requested by Prof. Yanto Sandy Tjang to work at the University of Indonesia"
     - title: "02/2021 – Present"
       content: "Henry Dunant Hospital Center"
 

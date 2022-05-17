@@ -18,7 +18,7 @@
           <div class="block">
             {{ if fileExists (add `assets/` .image) }}
             {{$img:= resources.Get .image }}
-            {{$img:= $img.Resize "464x"}}
+            {{$img:= $img.Resize "660x"}}
             <img loading="lazy" decoding="async" class="img-fluid" width="{{$img.Width}}" height="{{$img.Height}}" src="{{$img.RelPermalink}}" alt="Video Thumbnail" onerror="this.onerror=null;this.src='{{$img.RelPermalink}}'">
             {{end}}
           </div>
