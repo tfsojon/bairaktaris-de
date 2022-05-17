@@ -8,8 +8,6 @@
 {{ end }}
 {{ end }}
 
-<script data-cfasync="false" src="plugins/webfont-loader/webfont-loader-2.min.js"></script>
-
 <!-- gallery script -->
 {{ if site.Params.image_gallery }}
 {{ $scripts = $scripts | append (resources.Get "plugins/gallery/glightbox.js" | minify ) }}
@@ -69,7 +67,7 @@
 <!-- <script async src="https://cdn.jsdelivr.net/gh/theprojectsomething/webfontloader@feature/google-fonts-v2/webfontloader.js"></script> -->
 {{$pf:= site.Params.variables.font_primary}}
 {{$sf:= site.Params.variables.font_secondary}}
-<script type="application/javascript">
+<script data-cfasync="false" src="plugins/webfont-loader/webfont-loader-2.min.js" type="application/javascript">
   WebFont.load({
     google: {
       api: 'https://fonts.googleapis.com/css2',
