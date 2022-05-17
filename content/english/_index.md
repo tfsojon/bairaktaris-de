@@ -21,7 +21,7 @@ how_it_works:
   - subtitle: "Hospital"
     title: "Henry Dunant Hospital Center"
     description: "The Henry Dunant Hospital Center is not only one of the most modern Hospitals in Greece but also in the whole of south-Europe. It consists of 462 hospital beds, 38 intensive care beds, and 25 modern operating theaters."
-    image: "images/henry-dunant.jpg"
+    image: "images/henry-dunant.webp"
 
 # place_of_birth
 place_of_birth:
