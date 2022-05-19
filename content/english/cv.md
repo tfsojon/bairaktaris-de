@@ -18,7 +18,7 @@ education:
     - title: "27/04/1982"
       content: "Medical Degree, Ruhr-University of Bochum"
     - title: "22/09/1994"
-      content: "Dissertation, PhD father Prof. Dr. med. R. Körfer, Ruhr-University of Bochum"
+      content: "Dissertation, Ph.D. father Prof. Dr. med. R. Körfer, Ruhr-University of Bochum"
 
 # Specialty
 specialty:
@@ -76,5 +76,5 @@ accomplishments:
   title: "Accomplishments"
   block: 
     - title: "03/04/2016"
-      content: "Transfer of a 17-year-old boy with severe heart failure by using transportable ECMO from Onassis Heart Center Athens to the University Hospital of Hannover. The boy underwent heart transplantation at a later date."
+      content: "Transfer of a 17-year-old boy with severe heart failure using transportable ECMO from Onassis Heart Center Athens to the University Hospital of Hannover. The boy underwent heart transplantation at a later date."
 ---
