@@ -6,20 +6,26 @@ name = "Home"
 url = ""
 weight = 1
 
+# main menu
+[[main]]
+name = "CV"
+url = "cv/"
+weight = 2
+
 [[main]]
 name = "Publications"
 url = "publications/"
-weight = 2
+weight = 3
 
 [[main]]
 name = "Articles"
 url = "articles/"
-weight = 3
+weight = 4
 
 [[main]]
 name = "Services"
 url = "services/"
-weight = 4
+weight = 5
 hasChildren = true
 
   [[main]]
@@ -49,7 +55,7 @@ hasChildren = true
 [[main]]
 name = "Wikipedia"
 url = "https://www.wikipedia.org/"
-weight = 5
+weight = 6
 
 # footer menu
 [[footer]]
