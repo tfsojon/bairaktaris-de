@@ -18,7 +18,7 @@ url = "publications/"
 weight = 3
 
 [[main]]
-name = "Articles"
+name = "Articles - GR"
 url = "articles/"
 weight = 4
 
