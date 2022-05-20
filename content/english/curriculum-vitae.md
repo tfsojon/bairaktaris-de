@@ -4,6 +4,19 @@ description: "Curriculum vitae of Dr. Med. Bairaktaris"
 draft: false
 layout: "cv"
 
+# Personal information
+personal_information:
+ enable: true
+ title: "Personal information"
+ block:
+  - title: "18/02/1954"
+    content: "Born in Nemea, Greece. Son of ... Bairaktaris and Konstantina Bairaktaris"
+  - title: "..."
+    content: "Acquired German citizenship"
+  - title: "..."
+    content: "Married Sonja Bairaktaris, with whom he has three children"
+  
+
 # Education
 education:
   enable: true

@@ -4,7 +4,6 @@ who_we_are:
   enable: true
   subtitle: "Cardiothoracic Surgeon"
   title: "Dr. med. Andreas Bairaktaris"
-  description_header: "born: 18 February 1954, Nemea, Greece"
   description: "Multi-year experience with 10,000 open-heart interventions, over 110 heart transplants, and corresponding mechanical heart support systems implants. Deputy Director of Clinic for Thoracic and Cardiovascular Medicine for many years, Heart and Diabetes Center North-Rhine Westphalia, Bad Oeynhausen - Germany."
 
   image: "images/bairaktaris.webp"
