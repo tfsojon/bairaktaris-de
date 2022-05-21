@@ -10,12 +10,12 @@
 
 <!-- gallery script -->
 {{ if site.Params.image_gallery }}
-{{ $scripts = $scripts | append (resources.Get "plugins/gallery/glightbox.js" | minify ) }}
+{{ $scripts = $scripts | append (resources.Get "plugins/gallery/glightbox.js" ) }}
 {{ end }}
 
 <!-- main script -->
-{{ $scripts = $scripts | append (resources.Get "js/script.js" | minify) }}
-{{ $scripts = $scripts | resources.Concat "js/script.js" | minify | fingerprint "sha512" }}
+{{ $scripts = $scripts | append (resources.Get "js/script.js") }}
+{{ $scripts = $scripts | resources.Concat "js/script.js" | fingerprint "sha512" }}
 <script crossorigin="anonymous" defer="defer" integrity="{{ $scripts.Data.Integrity }}" type="application/javascript">{{$scripts.Content | safeJS}}</script>
 
 <!-- cookie -->
@@ -67,7 +67,7 @@
 <!-- <script async src="https://cdn.jsdelivr.net/gh/theprojectsomething/webfontloader@feature/google-fonts-v2/webfontloader.js"></script> -->
 {{$pf:= site.Params.variables.font_primary}}
 {{$sf:= site.Params.variables.font_secondary}}
-<script type="application/javascript">
+<script data-cfasync="false" type="application/javascript">
   WebFont.load({
     google: {
       api: 'https://fonts.googleapis.com/css2',
