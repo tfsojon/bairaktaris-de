@@ -33,6 +33,6 @@ In this technique, only arterial vessels are used. Due to their different wall, 
 
 ### Hybrid operations
 
-Hybrid procedures are a combination of bypass surgery and cardiac catheterization. This is done in close cooperation with the Cardiology Clinic in Heidelberg (Director Dr. Prof. H. Katus). Patients with an indication for hybrid surgery are presented to the multidisciplinary board, where the individual procedure is discussed and determined (see hybrid surgery).
+Hybrid procedures are a combination of bypass surgery and cardiac catheterization. Patients with an indication for hybrid surgery are presented to the multidisciplinary board, where the individual procedure is discussed and determined (see hybrid surgery).
 
 {{< image src="images/services/heart-3.jpg" caption="" alt="" height="" width="" position="" command="fill" option="q100" class="img-fluid rounded" title="" webp="true" >}}
