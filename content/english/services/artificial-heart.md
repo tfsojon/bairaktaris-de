@@ -29,9 +29,7 @@ A so-called extracorporeal support system is used in case of functional limitati
 
 {{< image src="images/services/body.jpg" caption="" alt="" height="" width="" position="" command="fill" option="q100" class="img-fluid rounded" title="" webp="true" >}}
 
-If the left ventricular pump function is significantly limited, then a much smaller pump system can be implanted. It is not a pumping chamber but an axial flow pump. The blood is transferred via an Archimedes screw. These devices are tiny and can be fully implanted into the supply line. The Heartmate II systems from Thoratec and Incor from Berlin Heart are available here:
-
-{{< image src="images/services/heart-8.png" caption="" alt="" height="" width="" position="" command="fill" option="q100" class="img-fluid rounded" title="" webp="true" >}}
+If the left ventricular pump function is significantly limited, then a much smaller pump system can be implanted. It is not a pumping chamber but an axial flow pump. The blood is transferred via an Archimedes screw. These devices are tiny and can be fully implanted into the supply line. 
 
 With this support system, it naturally becomes easier to mobilize the patient, and it is possible to leave the clinic.
 
