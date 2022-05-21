@@ -13,69 +13,32 @@ circulatory system.**
 
 ### Scenario I
 
-During the end of a procedure, using a heart-lung bypass machine, the immediate
-recovery of the cardiac function is not possible. This means that the patient
-cannot be kept alive without a heart-lung bypass machine. So, in order to make
-possible the completion of such a procedure, a support system is needed.
-Accordingly, if both the ventricles are sufficient, either the left ventricle is
-supported or – in rare occasions – the whole of the heart and the lungs is
-bypassed. This is achieved with a system of centrifugal blood pump, which allows
-a blood flow of 6 liters per minute. Under specific conditions, the oxygenator
-can be incorporated in the system, which enriched the blood with oxygen.
+In the context of surgery using a cardiopulmonary bypass machine, immediate recovery of cardiac function is not possible. This means that the patient cannot be kept alive without a cardiopulmonary bypass machine. A support system is needed to enable the completion of such an operation. Depending on whether both ventricles are affected, either only the left ventricle is supported or - in rare cases - the whole heart and lung are bridged. This is achieved with a centrifugal pump system, which allows a blood flow of up to 6 liters per minute. Under certain conditions, an oxygenator can be integrated into the system, which enriches the blood with oxygen.
 
-Such a system is simple and safe. However, the disadvantage is that its use is
-limited to 7 – 8 days. Regularly, the recovery of the cardiac function is
-achieved during this interval, since the heart does not need to work during the
-function of the centrifugal blood pump and it is not burdened with work
-production.
+Such a system is simple and safe. The disadvantage, however, is that use is limited to 7-8 days. As a rule, recovery of cardiac function is achieved during this time, as the heart does not have to work during the extracorporeal circulation and remains unencumbered. 
 
-In case of cardiac function recovery during the first week, the removal of the
-system can take place, without problems and the course of the further patients’
-recovery is not different in comparison with the other cardiological patients.
+In the case of recovery of cardiac function within the first week, removal of the system can occur without problems, and the further course of recovery of patients does not differ from that of other cardiac patients.
 
 ### Scenario ΙΙ
 
-Here we deal with the use of mechanical support systems as bridging until a
-graft is available. The question if only the left ventricle or the whole of the
-heart should be supported is of significant importance.
+This involves using mechanical support systems as a bridge until a graft is available. The decisive factor is whether only the left ventricle or the whole heart should be supported.
 
-Mainly, it concerns patients who are already in the list for heart
-transplantation and their condition is worsening quickly. The second group
-concerns patients, of which the cardiac function worsened because of myocardial
-infarct or inflammation of the cardiac muscles and which are threatened with
-death.
+These are primarily patients already on the waiting list for a heart transplant and whose condition is deteriorating rapidly. The second group are patients whose heart function has dramatically deteriorated due to infarction or inflammation of the heart muscles and who are at risk of death.
 
-In case of functional limitation of both the ventricles, an extracorporeal
-support system is used. Through two pumping chambers, which function with air,
-the pumping function of the ventricles is replaced and supported.
+A so-called extracorporeal support system is used in case of functional limitation of both ventricles. Through two air-operated pumping chambers, the ventricular pump function is replaced and/or supported.
 
 {{< image src="images/services/body.jpg" caption="" alt="" height="" width="" position="" command="fill" option="q100" class="img-fluid rounded" title="" webp="true" >}}
 
-In case that the function of the left ventricle is significantly limited, then a
-very smaller pumping system can be implanted. This does not concern a pumping
-chamber but an axial-flow pump. The blood transportation is realized through an
-“Arichemedes Snail (Archimedes’ Screwpump)”. These devices are very small and
-they can be fully implanted. Here, Heartware system is available.Heartware.
+If the left ventricular pump function is significantly limited, then a much smaller pump system can be implanted. It is not a pumping chamber but an axial flow pump. The blood is transferred via an Archimedes screw. These devices are tiny and can be fully implanted into the supply line. The Heartmate II systems from Thoratec and Incor from Berlin Heart are available here:
 
 {{< image src="images/services/heart-8.png" caption="" alt="" height="" width="" position="" command="fill" option="q100" class="img-fluid rounded" title="" webp="true" >}}
 
-With this support system, the mobilization of the patient is for sure easier and
-his discharge from the clinic is more possible.
+With this support system, it naturally becomes easier to mobilize the patient, and it is possible to leave the clinic.
 
-Both the ways of supporting are functioning as a bridge until a cardiac graft is
-available. In rare cases middle-term recovery of the heart function can occur,
-so that these systems are removed successfully and the heart functions normally.
+Both support modes serve as a bridge until a donor heart is available. In rare cases, medium-term recovery of cardiac function may occur so that these systems can be successfully removed and the heart can function normally again
 
 ### Scenario ΙΙΙ
 
-It concerns patients whose left ventricle function the is severely limited. For
-these patients, unfortunately there is no possibility for heart transplantation
-or they have contraindications for transplantations or they are aged. In order
-these patients to be helped and to assure their life quality, the above
-mentioned axial flow pumps are used. In this way, a sufficient function of the
-pump is assured and the patients can leave the clinics with these systems.
-However, their application is limited only to selective patients. Because of the
-lack of alternative solutions for these patients, the use of this method will
-continue in the future to gain importance.
+This involves patients whose left ventricular function is significantly limited. For these patients, heart transplantation is unfortunately not an option. They are either contraindicated for transplantation or are of advanced age. In order to help these patients and ensure their quality of life, the above-mentioned axial flow valves are used. This ensures adequate pump function, and patients can leave the clinic with these systems. However, this form of use and indication is only intended for selected patients. Due to the lack of natural alternatives, this use will continue to gain importance in the future.
 
 {{< image src="images/services/body-heart.jpg" caption="" alt="" height="" width="" position="" command="fill" option="q100" class="img-fluid rounded" title="" webp="true" >}}
