@@ -5,11 +5,7 @@ title: "Artificial heart"
 logo: "images/services/body-heart-f.jpg"
 ---
 
-**Basically, mechanical support systems can be used (artificial heart), only if
-the heart cannot fulfill its function and the replacement is not possible with a
-donor heart or a donor heart is not available. In this case, different scenarios
-are shown, which make necessary various types of mechanical support of the
-circulatory system.**
+**In principle, mechanical support systems can only be used if the heart cannot fulfill its function and cannot be replaced by a donor heart or a donor heart is not available. Different scenarios are presented here, making different types of mechanical circulatory support necessary. **
 
 ### Scenario I
 
