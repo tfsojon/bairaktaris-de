@@ -13,7 +13,7 @@ personal_information:
     content: "Born in Nemea, Greece. Son of Theodoros Bairaktaris and Konstantina Bairaktaris"
   - title: "..."
     content: "Acquired German citizenship"
-  - title: "..."
+  - title: "30/08/1997"
     content: "Married Sonja Bairaktaris, with whom he has three children"
   
 
