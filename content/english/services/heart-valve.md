@@ -5,101 +5,62 @@ title: "Heart Valve Surgery"
 logo: "images/services/mechanical-heart-valve-newf.jpg"
 ---
 
-### Range of treatment – Heart valve surgery in adults
+### Treatment spectrum - Heart valve surgery in adults
 
-- Replacement of mitral and aortic valve with biological and mechanical valves.
-- Replacement of aortic valve using minimally invasive technique.
-- Replacement of aortic valve with homograft in endocarditis.
-- Minimally invasive replacement or reconstruction of mitral valve.
-- David procedure - reconstruction of aortic valve, with maintaining of aortic valve.
-- Ross Procedure, with the use of the patient’s pulmonary valve, in aortic position.
-- Replacement or reconstruction of tricuspid valve.
+- Mitral and aortic valve replacement with biological and mechanical valves
+- Minimally invasive aortic valve replacement
+- Aortic valve replacement with homograft in endocarditis
+- Minimally invasive mitral valve replacement or reconstruction
+- David procedure - valve reconstruction with aortic valve preservation
+- Ross procedure using a patient's pulmonary valve in the aortic position
+- Tricuspid valve replacement or reconstruction
 
-### Selection of cardiac valve prosthesis
+### Selection of heart valve prostheses
 
-**The decision for the selection of prosthetic cardiac valves is done after
-obtaining the patient’s consent, taking in consideration his condition (age,
-athletic activities, coexisting diseases, etc).**
+**The choice of heart valve prostheses is made together with the patient, taking into account the individual life situation (age, sports activities, comorbidities, etc.).**
 
-### Mechanical cardiac valve prosthesis
+### Mechanical heart valve prostheses
 
-The modern cardiac valves with double flaps (see Image 1), which are used by us,
-offer the ideal flow profile and they are characterized by their endurance, for
-lifetime. As disadvantage, it should be taken in consideration the lifetime
-intake of anticoagulants, for avoiding clot formation.
+The modern double-flap heart valves (image 1) offer an ideal flow profile characterized by lifetime durability. As a disadvantage, lifetime treatment with Marcumar to avoid thrombus formation has to be considered.
 
-{{< image src="images/services/mechanical-heart-valve.jpg" caption="Image 1: Mechanical cardiac valve" alt="Mechanical cardiac valve" height="" width="" position="" command="fill" option="q100" class="img-fluid rounded" title="Mechanical cardiac valve" webp="true" >}}
+{{< image src="images/services/mechanical-heart-valve.jpg" caption="Image 1: Mechanical cardiac valve" alt="Mechanical cardiac valve" height="" width="" position="" command="fill" option="q100" class="img-fluid rounded" title="Mechanical heart valve" webp="true" >}}
 
-### Biological cardiac valve prosthesis
+### Biological heart valve prosthesis
 
-Concerning the endurance, the tissue valve (image 2) cannot be compared with the
-mechanical valves and for this reason, in a period of 10 – 20 years, they should
-be replaced because of degeneration. An advantage of these valves is the low
-percentage of clot formation. For this reason, the treatment with Sintrom is
-necessary only for 2 months after the intervention.
+Regarding durability, tissue valves (Figure 2) cannot be compared to mechanical valves, so in 10-20 years they should be replaced due to degeneration. The advantage of these valves is the low rate of thrombus formation, which is why treatment with Marcumar is only necessary for 3 months after surgery. 
 
-{{< image src="images/services/biological-prosthetic-heart-valve.jpg" caption="Image 2: Biological cardiac valve" alt="Biological cardiac valve" height="" width="" position="" command="fill" option="q100" class="img-fluid rounded" title="Biological cardiac valve" webp="true" >}}
+{{< image src="images/services/biological-prosthetic-heart-valve.jpg" caption="Image 2: Biological cardiac valve" alt="Biological cardiac valve" height="" width="" position="" command="fill" option="q100" class="img-fluid rounded" title="Biological prosthesis of a heart valve" webp="true" >}}
 
-### Cardiac valve reconstructions
+### Heart valve reconstructions
 
 #### Ross Procedure
 
-A variation of the replacement of the aortic valve, with biological prosthesis,
-is the “Ross Procedure”. The pulmonary valve of the patient is placed in the
-site of aortic valve, while in the site of the pulmonary valve a pulmonary valve
-from a donor (homograft) is placed (image 3). This is done regularly in younger
-patients, who would like to avoid the use of anticoagulants. Υet, it should be
-taken in consideration that in the future, a new procedure will be needed for
-the replacement of the valve. However, the endurance of the “new” aortic valve
-is bigger in comparison with the endurance of the conventional biological
-prosthesis.
+The so-called " Ross procedure " is a variation of replacing a heart valve in an aortic position with a biological prosthesis. The patient's pulmonary valve is placed in an aortic position, and the pulmonary valve is replaced by a pulmonary donor valve (homograft) (image 3). This option is generally utilized in younger patients who would like to avoid taking Marcumar. Even in this case, however, it must be taken into account that a new operation will be performed to replace the valve, but the durability of the "new" aortic valve is greater than that of conventional biological prostheses.
 
-{{< image src="images/services/ross.jpg" caption="Image 3: The result of Ross Procedure. The new aortic valve is composed of the patient’s former pulmonary valve and the pulmonary valve of the donor has been implanted in the site of the pulmonary (yellow color)." alt="Ross Procedure" height="" width="" position="" command="fill" option="q100" class="img-fluid rounded" title="Ross Procedure" webp="true" >}}
+{{< image src="images/services/ross.jpg" caption="Image 3: Result of Ross procedure. The new aortic valve (red) is composed of the patient's former pulmonary valve, while the donor valve is implanted in a pulmonary position (yellow)." alt="Ross Procedure" height="" width="" position="" command="fill" option="q100" class="img-fluid rounded" title="Ross Procedure" webp="true" >}}
 
 #### David procedure - Reconstruction of aortic valve
 
-The morphologically intact aortic valve is sutured to the prosthesis which
-replaces the aortic root. The control with water injection confirms the
-fluid-tightness of the reconstructed valve.
+The morphologically intact aortic valve is reimplanted in the prosthesis, replacing the aortic root. The water test confirms the effective blockage of the reconstructed valve.
 
-The development of new techniques improves the surgical results, aiming to the
-improvement of the patient’s post-operative quality of life. New implants (the
-so-called hybrid prostheses), to which a conventional vascular prosthesis is
-connected, which has replaced the thoracic aorta, are used for the replacement
-of the ascending aorta, of the aortic arch and the descending aorta. In this
-way, additional surgical procedures can be avoided in many patients.
+The development of new surgical techniques improves surgical outcomes to improve the patient's postoperative quality of life. New implants (so-called hybrid prostheses), in which a thoracic aortic bypass is connected to the conventional vascular prosthesis, replace the ascending aorta, the aortic arch, and the descending aorta. In this way, additional surgery can be avoided in many patients.
 
 {{< image src="images/services/mitral-valve-reconstruction-david.jpg" caption="" alt="David procedure" height="" width="" position="" command="fill" option="q100" class="img-fluid rounded" title="David procedure" webp="true" >}}
 
 #### Reconstruction of mitral valve
 
-For the last years, the emphasis concerning the mitral valve surgery is given to
-the successful reconstruction of this valve, while in the previous decades the
-replacement of the mitral valve, which is applied rarely, consisted the biggest
-part of the procedures of the mitral valve. The advantages are related with the
-maintenance of the geometry of the left ventricle, the best functional results
-and also with the small tendency of the reconstructed valve to form clots, a
-fact that makes needless the long-term medication with anticoagulants.
+For some years now, the focus of mitral valve surgery has been on the successful reconstruction of the mitral valve, whereas in previous decades, mitral valve replacement, which is increasingly rarely performed, constituted the bulk of mitral valve surgery. The advantages of mitral valve replacement have to do with the preservation of left ventricular geometry with better functional results and the low tendency of the reconstructed valve to form thrombi, which makes long-term Marcumar unnecessary. 
 
 {{< gallery dir="images/services/mitral-valve-reconstruction" class="" height="400" width="400" webp="true" command="Fit" options="" zoomable="true" >}}
 
 #### Tricuspid valve
 
-The diseases of the tricuspid valve are met frequently in combination with
-diseases of the left cardiac ventricle. In a 25 percent of the patients, who
-undergo reconstruction of the mitral valve because of ischemic insufficiency,
-the reconstruction of tricuspid valve is also needed.
+The tricuspid valve diseases are met frequently in combination with diseases of the left cardiac ventricle. In 25 percent of the patients, who undergo reconstruction of the mitral valve because of ischemic insufficiency, the reconstruction of the tricuspid valve is also needed.
 
 The tricuspid valve insufficiency develops as a progressive, continuous condition.
 
-When the ring (annulus) of the tricuspid valve is dilated quite a lot, the
-related clinical semiology appears.
+The related clinical semiology appears when the ring (annulus) of the tricuspid valve is dilated quite a lot.
 
-The grade of severity of tricuspid valve insufficiency is related with the
-survival of the patients. So, high-grade insufficiency is combined with high
-mortality, no matter the functional performance of the left ventricle and the
-pressure of the pulmonary artery. For the reconstruction of the tricuspid valve,
-we use special rings (Edwards MC3), which are sutured on the natural ring
-(annulus) of the above mentioned valve.
+The grade of severity of tricuspid valve insufficiency is related to the patients' survival. So, high-grade insufficiency is combined with high mortality, no matter the left ventricle's functional performance and the pulmonary artery's pressure. For reconstructing the tricuspid valve, we use special rings (Edwards MC3) sutured on the natural ring (annulus) of the valve mentioned above.
 
 {{< image src="images/services/tricuspid-valve.jpg" caption="" alt="David procedure" height="" width="" position="" command="fill" option="q100" class="img-fluid rounded" title="David procedure" webp="true" >}}
