@@ -10,7 +10,7 @@ personal_information:
  title: "Personal information"
  block:
   - title: "18/02/1954"
-    content: "Born in Nemea, Greece. Son of ... Bairaktaris and Konstantina Bairaktaris"
+    content: "Born in Nemea, Greece. Son of Theodoros Bairaktaris and Konstantina Bairaktaris"
   - title: "..."
     content: "Acquired German citizenship"
   - title: "..."
