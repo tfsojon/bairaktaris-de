@@ -21,13 +21,13 @@ logo: "images/services/mechanical-heart-valve-newf.jpg"
 
 ### Mechanical heart valve prostheses
 
-The modern double-flap heart valves (image 1) offer an ideal flow profile characterized by lifetime durability. As a disadvantage, lifetime treatment with Marcumar to avoid thrombus formation has to be considered.
+The modern double-flap heart valves (Image 1) offer an ideal flow profile characterized by lifetime durability. As a disadvantage, lifetime treatment with Marcumar to avoid thrombus formation has to be considered.
 
 {{< image src="images/services/mechanical-heart-valve.jpg" caption="Image 1: Mechanical cardiac valve" alt="Mechanical cardiac valve" height="" width="" position="" command="fill" option="q100" class="img-fluid rounded" title="Mechanical heart valve" webp="true" >}}
 
 ### Biological heart valve prosthesis
 
-Regarding durability, tissue valves (Figure 2) cannot be compared to mechanical valves, so in 10-20 years they should be replaced due to degeneration. The advantage of these valves is the low rate of thrombus formation, which is why treatment with Marcumar is only necessary for 3 months after surgery. 
+Regarding durability, tissue valves (Image 2) cannot be compared to mechanical valves, so in 10-20 years they should be replaced due to degeneration. The advantage of these valves is the low rate of thrombus formation, which is why treatment with Marcumar is only necessary for 3 months after surgery. 
 
 {{< image src="images/services/biological-prosthetic-heart-valve.jpg" caption="Image 2: Biological cardiac valve" alt="Biological cardiac valve" height="" width="" position="" command="fill" option="q100" class="img-fluid rounded" title="Biological prosthesis of a heart valve" webp="true" >}}
 

@@ -5,7 +5,7 @@ title: "Surgery of the coronary vessel"
 logo: "images/services/off-pump.jpg"
 ---
 
-Coronary bypass surgery has been established in recent decades as the global standard surgical procedure for treating coronary artery disease alongside conventional treatment strategies, such as balloon and/or stenting. Today, it accounts for about 60-70% of the total surgical spectrum of cardiac surgery and includes conventional aorto-coronary venous bypass (ACVB) procedures with a cardiopulmonary bypass machine and several other modern and innovative therapeutic options. The scope of our clinic includes all areas of modern coronary artery surgery.
+Coronary bypass surgery has been established in recent decades as the global standard surgical procedure for treating coronary artery disease alongside conventional treatment strategies, such as balloon and/or stenting. Today, it accounts for about 60-70% of the total surgical spectrum of cardiac surgery and includes conventional aorto-coronary venous bypass (ACVB) procedures with a cardiopulmonary bypass machine and several other modern and innovative therapeutic options.
 
 - Conventional aortocoronary venous bypass (ACVB) surgery with a cardiopulmonary bypass machine.
 - Endoscopic and/or minimally invasive vein removal.
@@ -29,7 +29,7 @@ This procedure is a minimal variation of the OPCAB technique and makes sense in 
 
 ### Total arterial myocardial revascularisation
 
-In this technique, only arterial vessels are used. Due to their different wall, arteries, unlike veins, are more stable and have a more robust muscle layer. Thus, they can better adapt to the perfusion pressure and existing flow conditions and have a better and longer opening rate in many patients. Typical bypass vessels are the two arteries of the chest wall, the radial artery. Arteries from the abdomen (e.g., gastroepiploic artery) are used less frequently. Since the preparation of abdominal wall arteries is a time-consuming process and, in some instances, may result in impaired sternal perfusion, this method is mainly used in younger patients.
+In this technique, only arterial vessels are used. Due to their different walls, arteries, unlike veins, are more stable and have a more robust muscle layer. Thus, they can better adapt to the perfusion pressure and existing flow conditions and have a better and longer opening rate in many patients. Typical bypass vessels are the two arteries of the chest wall, the radial artery. Arteries from the abdomen (e.g., gastroepiploic artery) are used less frequently. Since the preparation of abdominal wall arteries is a time-consuming process and, in some instances, may result in impaired sternal perfusion, this method is mainly used in younger patients.
 
 ### Hybrid operations
 
