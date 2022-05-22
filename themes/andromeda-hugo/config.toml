@@ -62,5 +62,3 @@ link = "plugins/aos/aos.js"
 link = "plugins/swiper/swiper-bundle.min.js"
 [[params.plugins.js]]
 link = "plugins/rellax/rellax.min.js"
-[[params.plugins.js]]
-link = "plugins/webfont-loader/webfont-loader-2.min.js"
