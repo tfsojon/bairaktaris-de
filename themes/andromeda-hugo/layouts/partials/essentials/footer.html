@@ -38,44 +38,10 @@
       <div class="col-lg-4 col-md-6 col-sm-6" data-aos="fade-up">
         <div class="pr-4">
           <a class="navbar-brand" href="/">
-            {{ $logoPath:= site.Params.logo }}
-            {{ $logoWidth:= replace site.Params.logo_width "px" "x" }}
-    
-            <!-- checking logo existance -->
-            {{ if $logoPath }}
-            {{ if fileExists (add `assets/` $logoPath) }}
-            {{ $logo:= resources.Get $logoPath }}
-    
-            <!-- checking gif -->
-            {{ $logoExt := path.Ext $logo }}
-            {{ if eq $logoExt ".gif" }}
-            {{ .Scratch.Set "logo" ($logo.Resize $logoWidth).RelPermalink }}
-            <!-- checking svg -->
-            {{ else if eq $logoExt ".svg"}}
-            {{ .Scratch.Set "logo" $logo.RelPermalink }}
-            <!-- logo fallback for svg -->
-            {{ .Scratch.Set "logo_fallback" $logo.RelPermalink }}
-            {{ else }}
-            <!-- logo processing to webp -->
-            {{ $logoDefaultWidth:= add (string $logo.Width) "x"}}
-            {{ $logoWidth:= $logoWidth | default $logoDefaultWidth }}
-            {{ $options := add (string $logoWidth) " webp" }}
-            {{ .Scratch.Set "logo" ($logo.Resize $options).RelPermalink }}
-            <!-- logo fallback -->
-            {{ .Scratch.Set "logo_fallback" ($logo.Resize $logoWidth).RelPermalink }}
-            {{ end }}
-    
-            <img loading="prelaod" decoding="async" class="img-fluid mb-4" {{if ne $logoExt `.svg`}}
-              width="{{$logoWidth | default $logo.Width}}" height="{{$logo.Height}}" {{end}} src="{{.Scratch.Get `logo`}}"
-              alt="{{ site.Title }}" onerror="this.onerror=null;this.src='{{.Scratch.Get `logo_fallback`}}'">
-            {{ end }}
-            <!-- logo text -->
-            {{ else if site.Params.logo_text }}
-            {{ site.Params.logo_text | markdownify }}
-            <!-- logo title -->
-            {{ else }}
-            {{ site.Title | markdownify }}
-            {{ end }}
+            {{ if fileExists (add `assets/` site.Params.logo) }}
+            {{$img:= resources.Get site.Params.logo }}
+            <img loading="lazy" decoding="async" class="img-fluid mb-4" height="36" width="257" src="{{$img.RelPermalink}}" alt="{{site.Title}}">
+            {{end}}
           </a>
           <p class="mb-0">{{site.Params.footer_info | markdownify}}</p>
         </div>

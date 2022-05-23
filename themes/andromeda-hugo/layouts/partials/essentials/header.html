@@ -6,8 +6,10 @@
         <div class="col-12">
            <nav class="navbar navbar-expand-lg navbar-light p-0">
               <a class="navbar-brand" href="/">
-                {{ partial "images/logo.html" . }}
-                
+                {{ if fileExists (add `assets/` site.Params.logo) }}
+                {{$img:= resources.Get site.Params.logo }}
+                <img loading="lazy" decoding="async" class="img-fluid" height="36" width="257" src="{{$img.RelPermalink}}" alt="{{site.Title}}">
+                {{end}}
               </a>
 
               <div class="nav-controller d-flex align-items-center">
